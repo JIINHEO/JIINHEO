@@ -1,4 +1,4 @@
-## 👋👋 Hi, I’m JIIN HEO 🖤
+##  Hi there 👋 
 
 
 
