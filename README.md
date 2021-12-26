@@ -5,5 +5,4 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-181717?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://jiinheo.tistory.com/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/dev.jini/)](https://www.instagram.com/dev.jini/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIINHEO&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-[![Exception's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIINHEO&theme=omni&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIINHEO&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)[![Exception's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIINHEO&theme=omni&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
