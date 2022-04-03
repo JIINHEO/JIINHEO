@@ -15,8 +15,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIINHEO&layout=compact&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![JIINHEO's github stats](https://github-readme-stats.vercel.app/api?username=JIINHEO&line_height=20&count_private=true&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![JIINHEO's github stats](https://github-readme-stats.vercel.app/api?username=JIINHEO&line_height=20&count_private=true&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIINHEO&layout=compact&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=c6b8ff&height=150)
