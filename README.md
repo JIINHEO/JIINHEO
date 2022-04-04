@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c6b8ff&height=200&section=header&text=JIINHEO&fontAlignY=40&fontSize=70&animation=fadeIn!&fontColor=#fffdfc)
 
   <h4>Hi there! 👋</h4>
-  iOS Developer JIIN HEO
+  I'm iOS Developer
   
   </br>
   </br>
