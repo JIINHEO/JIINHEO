@@ -15,9 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjwldls123@gmail.com)](mailto:gjwldls123@gmail.com) [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.jiin)](https://www.instagram.com/dev.jiin) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiin-heo-672177227)](https://www.linkedin.com/in/jiin-heo-672177227) 
 </br>
 
-[![JIINHEO's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JIINHEO&line_height=20&count_private=true&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats-sigma-five)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JIINHEO&layout=compact&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats-sigma-five)
+[![JIINHEO's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JIINHEO&line_height=20&count_private=true&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats-sigma-five)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JIINHEO&layout=compact&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats-sigma-five)
   
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=c6b8ff&height=150)
