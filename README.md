@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=c6b8ff&height=200&section=header&text=JIINHEO&fontAlignY=40&fontSize=70&animation=fadeIn!&fontColor=#fffdfc)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=c6b8ff&text=JIIN%20HEO&fontColor=fffdfc&fontSize=70&fontAlignY=40)
 
   <h4>Hi there! 👋</h4>
   I'm iOS developer
